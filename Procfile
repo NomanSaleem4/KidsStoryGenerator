@@ -1,2 +1,2 @@
-web: sh setup.sh && streamlit run qa.py
+web: sh setup.sh && streamlit run kids_story_generator.py
 
