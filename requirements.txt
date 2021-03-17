@@ -2,3 +2,4 @@ aitextgen==0.2.3
 --find-links https://download.pytorch.org/whl/torch_stable.html
 torch==1.8.0+cpu
 streamlit
+algorithmia
